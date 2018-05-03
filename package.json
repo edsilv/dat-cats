@@ -1,0 +1,27 @@
+{
+  "name": "dat-cats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "rm -rf uv && cp -R node_modules/universalviewer/uv uv",
+    "start": "http-server ./ -p 1234",
+    "build": "./node_modules/.bin/biiif collection -u dat://84b2e8deec026d0394512096288bad1b1eeed0910dd505c4e12e77c972e47b6d/collection"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edsilv/dat-cats.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edsilv/dat-cats/issues"
+  },
+  "homepage": "https://github.com/edsilv/dat-cats#readme",
+  "dependencies": {
+    "biiif-cli": "0.0.25",
+    "http-server": "^0.11.1",
+    "universalviewer": "3.0.23"
+  }
+}
