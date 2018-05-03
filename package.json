@@ -6,7 +6,7 @@
   "scripts": {
     "postinstall": "rm -rf uv && cp -R node_modules/universalviewer/uv uv",
     "start": "http-server ./ -p 1234",
-    "build": "./node_modules/.bin/biiif collection -u dat://84b2e8deec026d0394512096288bad1b1eeed0910dd505c4e12e77c972e47b6d/collection"
+    "build": "./node_modules/.bin/biiif collection -u dat://97fa96d07caba5e4b5c588f7b93b4df85ce936dabfc5262414dec0a16c362b1f/collection"
   },
   "repository": {
     "type": "git",

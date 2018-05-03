@@ -4,5 +4,5 @@ A IIIF collection of cats served over [dat](https://datproject.org/)!
 
 Open this url in [Beaker Browser](https://beakerbrowser.com/):
 
-    dat://84b2e8deec026d0394512096288bad1b1eeed0910dd505c4e12e77c972e47b6d
+    dat://97fa96d07caba5e4b5c588f7b93b4df85ce936dabfc5262414dec0a16c362b1f
 
