@@ -1,6 +1,6 @@
 # dat-cats
 
-A IIIF collection of cats served over [dat](https://datproject.org/)!
+A [IIIF](https://iiif.io) collection of cats served over [dat](https://datproject.org/)!
 
 Open this url in [Beaker Browser](https://beakerbrowser.com/):
 
