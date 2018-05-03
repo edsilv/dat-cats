@@ -24,10 +24,8 @@ Copied the generated dat link and added a [biiif-cli](https://github.com/edsilv/
 
     "build": "./node_modules/.bin/biiif collection -u dat://97fa96d07caba5e4b5c588f7b93b4df85ce936dabfc5262414dec0a16c362b1f/collection"
 
-Ran:
+Regenerated the IIIF to have the correct dat paths:
 
     npm run build
-
-To regenerate the IIIF to have the correct dat paths.
 
 Then opened the dat link in beaker browser :-)
