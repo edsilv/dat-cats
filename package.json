@@ -20,8 +20,10 @@
   },
   "homepage": "https://github.com/edsilv/dat-cats#readme",
   "dependencies": {
-    "biiif-cli": "0.0.25",
-    "http-server": "^0.11.1",
     "universalviewer": "3.0.23"
+  },
+  "devDependencies": {
+    "biiif-cli": "0.0.25",
+    "http-server": "^0.11.1"
   }
 }
